@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761057982117",
+    "project_id": "presence-da92c",
+    "storage_bucket": "presence-da92c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761057982117:android:6a8e4fd28fd83c9d07bf4c",
+        "android_client_info": {
+          "package_name": "com.bakti.presence.presence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761057982117-so93o2qvn6pq66k47cedm49ud5iutfsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXQ9Vr8vmgqoKMCoItL_IuSwEiwSb4nGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761057982117-so93o2qvn6pq66k47cedm49ud5iutfsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
